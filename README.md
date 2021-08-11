@@ -1,11 +1,7 @@
----
-title: "Intrp_R"
-output: github_document
----
 
-```{r}
+# Intro\_to\_R
+
+``` {r}
 data(cars)
 head(cars)
 ```
-
-
